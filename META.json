@@ -1,0 +1,50 @@
+{
+  "category": "monitoring",
+  "created_date": "2025-09-15T22:48:57.276912",
+  "default_ports": [
+    5432,
+    5672,
+    6379,
+    8080,
+    9115
+  ],
+  "dependencies": [],
+  "description": "Blackbox Exporter is a Prometheus exporter that allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP, ICMP and gRPC. It's essential for monitoring external services and endpoints from a user perspective.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/monitoring/blackbox-exporter",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/monitoring/blackbox-exporter",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.276934",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "blackbox-exporter",
+  "repository_url": "https://github.com/howtomgr/blackbox-exporter",
+  "spec_version": "2.0",
+  "subcategory": "monitoring",
+  "supported_os": [
+    "arch"
+  ],
+  "tags": [
+    "monitoring",
+    "containerization",
+    "observability",
+    "data-storage",
+    "security",
+    "networking"
+  ],
+  "title": "Blackbox Exporter Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/monitoring/blackbox-exporter"
+}
